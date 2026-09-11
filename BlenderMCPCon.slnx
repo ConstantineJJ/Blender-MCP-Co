@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BlenderMCPCon/BlenderMCPCon.csproj" />
+  </Folder>
+</Solution>

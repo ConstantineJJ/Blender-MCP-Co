@@ -1,0 +1,11 @@
+{
+  "BlenderExecutable": "",
+  "TunnelClientExecutable": "tunnel-client",
+  "TunnelProfile": "blender-local",
+  "TunnelId": "",
+  "McpCommand": "C:\\Users\\YOUR_USER\\chatgpt-blender-mcp\\run_blender_mcp_server.cmd",
+  "BlenderHost": "127.0.0.1",
+  "BlenderPort": 9876,
+  "RuntimeApiKeyEnvironmentVariable": "CONTROL_PLANE_API_KEY",
+  "AutoLaunchBlender": true
+}

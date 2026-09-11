@@ -1,0 +1,14 @@
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\bin\Debug\net10.0-windows\BlenderMCPCon.exe
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\bin\Debug\net10.0-windows\BlenderMCPCon.deps.json
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\bin\Debug\net10.0-windows\BlenderMCPCon.runtimeconfig.json
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\bin\Debug\net10.0-windows\BlenderMCPCon.dll
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\bin\Debug\net10.0-windows\BlenderMCPCon.pdb
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\obj\Debug\net10.0-windows\BlenderMCPCon.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\obj\Debug\net10.0-windows\BlenderMCPCon.AssemblyInfoInputs.cache
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\obj\Debug\net10.0-windows\BlenderMCPCon.AssemblyInfo.cs
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\obj\Debug\net10.0-windows\BlenderMCPCon.csproj.CoreCompileInputs.cache
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\obj\Debug\net10.0-windows\BlenderMCPCon.dll
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\obj\Debug\net10.0-windows\refint\BlenderMCPCon.dll
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\obj\Debug\net10.0-windows\BlenderMCPCon.pdb
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\obj\Debug\net10.0-windows\BlenderMCPCon.genruntimeconfig.cache
+E:\MyCreations\Blender-MCP-Co\src\BlenderMCPCon\obj\Debug\net10.0-windows\ref\BlenderMCPCon.dll
