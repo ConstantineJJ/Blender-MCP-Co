@@ -1,0 +1,63 @@
+{
+  "name": "Blender Character Agent Pipeline",
+  "version": "1.0",
+  "generated": "2026-09-13T13:08:32.093566+00:00",
+  "skills": [
+    {
+      "folder": "Blender_Character_Pipeline_Core",
+      "file": "SKILL.md",
+      "bytes": 9832,
+      "lines": 434,
+      "sha256": "5a6012a4e8e8eaf29e3c0bbcf665c18e648ab7ae7c6c1b4af9330ba691b10500"
+    },
+    {
+      "folder": "Blender_Reference_Reconstruction_SKILL",
+      "file": "SKILL.md",
+      "bytes": 7161,
+      "lines": 308,
+      "sha256": "5ee777a5b215e66672072b23192f391c5ebec7751fc766c495db1d4084e030c0"
+    },
+    {
+      "folder": "Blender_Character_Modeling_SKILL",
+      "file": "SKILL.md",
+      "bytes": 9547,
+      "lines": 403,
+      "sha256": "2b513d28534ec29b9392ba1f922d4a3f898d89dde88b93a24535c07df47b5d21"
+    },
+    {
+      "folder": "Blender_Organic_Sculpting_SKILL",
+      "file": "SKILL.md",
+      "bytes": 8500,
+      "lines": 403,
+      "sha256": "f7acf21bf2dac1275056c34895dac46920b4ea445998a7db5da82e9bf967e48f"
+    },
+    {
+      "folder": "Blender_Retopology_Deformation_SKILL",
+      "file": "SKILL.md",
+      "bytes": 6329,
+      "lines": 274,
+      "sha256": "ac327a4d844e878fd80d768d10fd8822308b44d6c5c89890645f9a2e7e741884"
+    },
+    {
+      "folder": "Blender_Character_QA_SKILL",
+      "file": "SKILL.md",
+      "bytes": 6870,
+      "lines": 344,
+      "sha256": "2c67b6d5db8dc93399d9f23c9b849686e3917193a9bb1709af17fb32affbcacb"
+    },
+    {
+      "folder": "Blender_Iterative_Refinement_SKILL",
+      "file": "SKILL.md",
+      "bytes": 5635,
+      "lines": 295,
+      "sha256": "17cbf6c33e055af8727a8d3d654a70bf68dd8c477c15e3da90ea2252692c2139"
+    },
+    {
+      "folder": "Blender_Character_Rigging_Animation_Godot_SKILL",
+      "file": "SKILL.md",
+      "bytes": 11963,
+      "lines": 533,
+      "sha256": "77b5a4ab45c26bdc08bbf4119c30ab74a123f2c60fc0fe02464d3292dc439475"
+    }
+  ]
+}

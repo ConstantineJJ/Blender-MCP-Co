@@ -1,8 +1,12 @@
 # Blender MCP_Con
 
-Small Windows launcher/diagnostic UI for the local Blender MCP + OpenAI Secure MCP Tunnel workflow.
+**Current version: 0.2.0**
 
-## What v0.1 does
+Small Windows launcher/diagnostic UI for the local Blender MCP + OpenAI Secure MCP Tunnel workflow, plus the **Blender Character Agent Pipeline** skill stack for agent-driven character work.
+
+## What v0.2.0 includes
+
+### Blender MCP_Con launcher
 
 - Finds/launches Blender (including common Steam locations).
 - Checks the Blender MCP addon TCP bridge on `127.0.0.1:9876`.
@@ -11,6 +15,35 @@ Small Windows launcher/diagnostic UI for the local Blender MCP + OpenAI Secure M
 - Starts/stops `tunnel-client run --profile ...` and captures logs.
 - Never stores the runtime API key on disk; it only reads the environment variable you configure (default `CONTROL_PLANE_API_KEY`).
 - Does **not** kill Blender when you stop/close the launcher, so unsaved `.blend` work is protected.
+
+### Blender Character Agent Pipeline
+
+The repository now includes an eight-skill character-production stack under `skills/`:
+
+```text
+Blender_Character_Pipeline_Core
+Blender_Reference_Reconstruction_SKILL
+Blender_Character_Modeling_SKILL
+Blender_Organic_Sculpting_SKILL
+Blender_Retopology_Deformation_SKILL
+Blender_Character_QA_SKILL
+Blender_Iterative_Refinement_SKILL
+Blender_Character_Rigging_Animation_Godot_SKILL
+```
+
+The stack adds:
+- task routing and Scope Lock / Surgical Mode;
+- reference-contract reconstruction;
+- primary-form stage gates;
+- deterministic-first sculpting;
+- retopology and deformation validation;
+- fixed-view QA;
+- iterative refinement;
+- anti-degradation checks with `KEEP / CORRECT / REVERT`;
+- rigging, animation and Godot/GLB rules;
+- a contained Stickmans Duel production profile instead of contaminating the universal base.
+
+See `skills/README_Blender_Character_Agent_Pipeline.md` and `skills/PIPELINE_MANIFEST.json`.
 
 ## Architecture
 
@@ -81,4 +114,4 @@ Do not commit runtime/admin API keys. `CONTROL_PLANE_API_KEY` is inherited from 
 
 ## Current known limitation
 
-Blender's addon-side **Connect** action is still manual in v0.1. This is deliberate: the launcher first makes the connection chain observable and reliable before automating Blender UI/addon internals.
+Blender's addon-side **Connect** action is still manual in v0.2.0. This is deliberate: the launcher keeps the connection chain observable and reliable before automating Blender UI/addon internals.
